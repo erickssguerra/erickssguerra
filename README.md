@@ -1,8 +1,11 @@
-<h4>
+
+
+<h3 align="center" >
+  
   <img src="https://github.com/erickssguerra/erickssguerra/blob/main/assets/waving-hand.gif" width="30px" alt="waving hands">
-  Hello, big blue Planet!
-  <img src="https://github.com/erickssguerra/erickssguerra/blob/main/assets/world2.gif" width="30px" alt="world">
-</h4>
+  Hello,
+  <img src="https://github.com/erickssguerra/erickssguerra/blob/main/assets/world2.gif" width="30px" alt="world">  !
+</h3>
 
 <div align="center">
 <h1>I'm Érick Guerra</h1>
