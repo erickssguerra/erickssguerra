@@ -1,7 +1,7 @@
 <h3 align="center" >
   
   <img src="https://github.com/erickssguerra/erickssguerra/blob/main/assets/waving-hand.gif" width="30px" alt="waving hands">
-  Hello,
+  ,
   <img src="https://github.com/erickssguerra/erickssguerra/blob/main/assets/world2.gif" width="30px" alt="world">  !
 </h3>
 
